@@ -1,0 +1,6 @@
+interface:
+  display_name: "Test Slimmer"
+  short_description: "精简测试代码与快照，保留关键测试点，并核对基线失败与实际代码节省"
+  default_prompt: "使用 $test-slimmer 精简当前模块的测试，优先复用和合并重复，保留关键测试点，并报告代码节省与验证结果。"
+policy:
+  allow_implicit_invocation: false
