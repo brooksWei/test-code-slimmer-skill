@@ -1,0 +1,3 @@
+interface:
+  display_name: "Code Slimmer"
+  short_description: "基于《软件设计的哲学》与《架构整洁之道》，分析目标源码并生成架构优化方案"
